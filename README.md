@@ -1,6 +1,6 @@
 ### Hi Folks 👋, I'm Bushart Hussain
 
-##A passionate Laravel and javascript developer.
+<h2>A passionate Laravel and javascript developer</h2>.
 
 
 <h3 align="left">Let's connect 🤓</h3>
